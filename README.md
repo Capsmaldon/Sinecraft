@@ -10,3 +10,5 @@ Quotes from users:
 "Visually stunning"
 "What's a modular synthesiser?"
 "How do I quit?"
+
+![](Images/img01)

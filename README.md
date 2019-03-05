@@ -11,4 +11,4 @@ Quotes from users:
 "What's a modular synthesiser?"
 "How do I quit?"
 
-![](Images/img01)
+![](Images/img01.png)

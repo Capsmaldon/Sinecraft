@@ -6,7 +6,11 @@ https://drive.google.com/open?id=1DXhUUNG8STR3CzsAR_Dkxv2P3FD3oJvM
 
 A wonderful and spectacular 3D environment for poor people who can't afford modular synthesisers
 
-Quotes from users:
-"Visually stunning"
-"What's a modular synthesiser?"
+Quotes from users:\
+"Visually jarring"\
+"What's a modular synthesiser?"\
 "How do I quit?"
+
+![](Images/img01.png)
+![](Images/img02.png)
+![](Images/img03.png)
